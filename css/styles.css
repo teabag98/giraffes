@@ -5,6 +5,10 @@
   color: red;
   font-size: 12px;
 }
+body{
+  background-color: #17261B;
+  color: white;
+}
 p.author {
   font-size: 12px;
 }
