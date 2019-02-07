@@ -8,3 +8,9 @@
 p.author {
   font-size: 12px;
 }
+h1.myheading{
+  text-align: center;
+  background-color: #04261B;
+  padding:3em;
+  color: white;
+}
