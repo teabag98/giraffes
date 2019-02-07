@@ -22,3 +22,10 @@ h1.myheading{
   display: flex;
   justify-content: space-between;
 }
+.images2{
+  justify-content: space-between;
+  display: inline-flex;
+}
+.flex-container {
+  display: flex;
+}
