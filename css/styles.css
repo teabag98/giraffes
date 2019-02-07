@@ -18,3 +18,7 @@ h1.myheading{
   padding:3em;
   color: white;
 }
+.images{
+  display: flex;
+  justify-content: space-between;
+}
